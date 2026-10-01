@@ -1,0 +1,10 @@
+dry run: nothing generated  |  LLM cost $0.003250  |  human review needed: False
+
+scene  sec  prompt score    voiceover
+1      6     10 -> 100      Another night, scrolling instead of sleeping. Sound fam
+2      6     10 -> 100      Lumen helps you build a gentle evening routine, one sma
+3      6     10 -> 100      Dim the lights, breathe slowly, and let your day settle
+4      6     10 -> 100      Members tell us evenings feel calmer and mornings less 
+5      6     10 -> 100      Start your free week tonight.
+
+wrote out/storyboard.md, manifest.json, iterations.jsonl
